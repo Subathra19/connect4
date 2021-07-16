@@ -1,8 +1,7 @@
 # Connect4
-The most classic game of all time is built with PyGame.
-* **Objective:** Pass though as many pipes as you can 
-* **Rules:** Don't hit the ground or pipes
-
+* A python based game built using PyGame. Connect4 is a two player game in which the players choose a color and then take turns dropping colored discs into a 7-column, 6-row vertically suspended grid.
+* **Objective:** Be the first to form a horizontal, vertical, or diagonal line of four of one's own discs.
+* PyGame is a cross-platform set of Python modules designed for writing video games. It includes computer graphics and sound libraries that can be used with the Python.
 ### Prerequisites
 * Python 3.0
 
