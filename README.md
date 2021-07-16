@@ -22,3 +22,6 @@
 <p align="center">
   <img width="800" height="700" src="https://github.com/Subathra19/connect4/blob/main/images/sample_screen.PNG">
 </p>
+
+### References
+[Keith Galli](https://github.com/KeithGalli/Connect4-Python)
