@@ -21,5 +21,5 @@ The most classic game of all time is built with PyGame.
 
 ### Sample Screen
 <p align="center">
-  <img width="800" height="700" src="https://github.com/Subathra19/py_connect4/blob/main/images/sample_screen.PNG">
+  <img width="800" height="700" src="https://github.com/Subathra19/connect4/blob/main/images/sample_screen.PNG">
 </p>
